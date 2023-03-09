@@ -1,4 +1,4 @@
-# Priceloop Nocode + ML Price Optimization Example
+#  ML Price Optimization Example
 
 ML Optimization Model Practice notebook
 
